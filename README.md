@@ -14,7 +14,7 @@ following things might tell something to someone about me:
 |_S_|_T_|_A_|_C_|_K_|
 |:-:|:-:|:-:|:-:|:-:|
 | c / c++<br>(with cmake) | ｃ＃ ／ ｄｏｔｎｅｔ| ᒍᗩᐯᗩ / Kotlin<br>(Android) | ʜᴛᴍʟ / ᴄꜱꜱ / ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ / (*PHP) <br>(modern web, css-libraries are 👍 eg. tailwind) | 𝘍𝘦𝘸 𝘫𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 <br>(𝘦𝘨. 𝘈𝘯𝘨𝘶𝘭𝘢𝘳 / 𝘴𝘷𝘦𝘭𝘵𝘦 / React / vue )<br>and buildtools (eg. vite)<br>and node.js |
-| ᑕI / ᑕᗪ <br>(eg. Jenkins / Terraform / github-actions) | 𝑺𝑸𝑳 <br>(many flavors, MSSQL / MySQL / postgreSQL and noSQL like Mongo)| Analytics Engine and containers<br>(Elasticsearch, docker, kubernetes) | WEB infrastructure and serving <br>(Google cloud / AWS / Azure / Netlify / custom domains) | I can handle and configure major operating systems to my own will <br>(Win / Mac / major Linux-distros) |
+| ᑕI / ᑕᗪ <br>(eg. Jenkins / Terraform / github-actions) | 𝑺𝑸𝑳 <br>(many flavors, MSSQL / MySQL / postgreSQL and noSQL like Mongo)| Analytics Engine and containers<br>(Elasticsearch, docker, kubernetes) | WEB infrastructure and serving <br>(Google cloud / AWS / Azure / Netlify / custom domains) | I can utilize Jira software for workflow |
 | I'm keen tinkerer of physical hardware 🧑‍🔧 <br>(eg. STM32 / Raspberry Pi / Arduino) | I know my way on electronics (and repair them) ☝️ | 🐍PYTHON<br> is my scripting language 2Go | Old-skool consoles close to heart <br>(also console modding HW/SW) | Freelance teacher <br>(on subjects Programming / Video and Photoediting / Music production ) |
 | 🎮 | 🎵 | ⌨️ | ♒ | 🧮 | 🧑‍💻 |
 
