@@ -23,6 +23,31 @@ following things might tell something to someone about me:
 [![binmap_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=bin-map-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/bin-map-mapbox)
 [![distance_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)
 [![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app-frontend&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app-frontend)
+
+  
+  
+<h3 align="center">My alter egos:</h3>
+<div align="center" style="display:flex;">
+   <div align="left">
+    <a href="https://github.com/miskah" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/47848048?v=4" alt="maiska123" height="150" width="150" style="border-radius:10px"/>
+     <p><b>miskah</b></p>
+   </a>
+  </div>
+     <div align="center">
+    <a href="https://github.com/maiskaks" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/54883305?v=4" alt="maiska123" height="150" width="150" style="border-radius:10px"/>
+     <p><b>maiskaks</b></p>
+   </a>
+  </div>
+     <div align="right">
+    <a href="https://github.com/miska-h" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/56038137?v=4" alt="maiska123" height="150" width="150" style="border-radius:10px"/>
+     <p><b>miska-h</b></p>
+   </a>
+  </div>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/maiska123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maiska123" height="30" width="40" /></a>
