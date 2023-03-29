@@ -9,6 +9,8 @@
 #### One could call me generalist - but i tend to be more of a specialist.
 
 ![Maiska123 github stats](https://github-readme-stats.vercel.app/api?username=maiska123&theme=gotham&show_icons=true)
+[![Maiska123 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiska123&langs_count=10&hide=javascript&theme=gotham&show_icons=true&bg_color=0c1014&text_color=99d1ce)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 following things might tell something to someone about me:
 |_S_|_T_|_A_|_C_|_K_|
@@ -18,13 +20,10 @@ following things might tell something to someone about me:
 | I'm keen tinkerer of physical hardware 🧑‍🔧 <br>(eg. STM32 / Raspberry Pi / Arduino) | I know my way on electronics (and repair them) ☝️ | 🐍PYTHON<br> is my scripting language 2Go | Old-skool consoles close to heart <br>(also console modding HW/SW) | Freelance teacher <br>(on subjects Programming / Video and Photoediting / Music production ) |
 | 🎮 | 🎵 | ⌨️ | ♒ | 🧮 | 🧑‍💻 |
 
-
-[![veggie_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=Fullstack-Edible-Battle&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/Fullstack-Edible-Battle)
-[![binmap_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=bin-map-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/bin-map-mapbox)
-[![distance_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)
-[![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app)
-
-  
+| | | | 
+|--|--|--|
+|[![veggie_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=Fullstack-Edible-Battle&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/Fullstack-Edible-Battle)|[![binmap_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=bin-map-mapbox&cache_seconds=86400&theme=nord&card_width=300px)](https://github.com/Maiska123/bin-map-mapbox)|[![doom_playstore_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=react-nextjs-doom-store&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/react-nextjs-doom-store)|[![distance_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)|
+[![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app)|[![histogramApplication_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=histogramApplication&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/histogramApplication)|[![python-flask-server-pi_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=python-flask-server-pi&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/python-flask-server-pi)|
   
 <h3 align="center">My alter egos:</h3>
 <div align="center" style="display:flex;">
