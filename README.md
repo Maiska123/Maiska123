@@ -9,7 +9,7 @@
 #### One could call me generalist - but i tend to be more of a specialist.
 
 ![Maiska123 github stats](https://github-readme-stats.vercel.app/api?username=maiska123&theme=gotham&show_icons=true)
-[![Maiska123 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiska123&langs_count=10&hide=javascript&theme=gotham&show_icons=true&bg_color=0c1014&text_color=99d1ce)](https://github.com/anuraghazra/github-readme-stats)
+[![Maiska123 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiska123&langs_count=10&hide=javascript&theme=gotham&show_icons=true&text_color=99d1ce)](https://github.com/anuraghazra/github-readme-stats)
   
 
 following things might tell something to someone about me:
