@@ -22,7 +22,7 @@ following things might tell something to someone about me:
 [![veggie_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=Fullstack-Edible-Battle&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/Fullstack-Edible-Battle)
 [![binmap_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=bin-map-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/bin-map-mapbox)
 [![distance_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)
-[![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app-frontend&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app-frontend)
+[![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app)
 
   
   
