@@ -1,6 +1,7 @@
 
 ### I'm an ordinary engineer - will solve problems with the power of knowledge :godmode:
 * Been on software industry over 5 years
+* CS Engineer from Applied Sc.
 * Freelance teacher
 * Hobbyist on Software / Hardware / Videogames / Music
 * IT Guru when it comes to consumer electronics
