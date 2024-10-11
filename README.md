@@ -8,6 +8,7 @@
 * Always ready for challenges, new and legacy!
 
 #### One could call me generalist - but i tend to be more of a specialist.
+#### *my public presence has been lil quiet lately but full-time working is taking it's toll*
 
 ![Maiska123 github stats](https://github-readme-stats.vercel.app/api?username=maiska123&theme=gotham&show_icons=true)
 [![Maiska123 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiska123&langs_count=10&hide=javascript&theme=gotham&show_icons=true&text_color=99d1ce)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +19,7 @@ following things might tell something to someone about me:
 |:-:|:-:|:-:|:-:|:-:|
 | c / c++<br>(with cmake)<br>ｃ＃ ／ dotnet | HTTP-servers and MQTT <br> (Apache, Nginx, AMPQ) | ᒍᗩᐯᗩ / Kotlin<br>(Android) | ʜᴛᴍʟ / ᴄꜱꜱ / ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ / (*PHP) <br>(modern web, css-libraries are 👍 eg. tailwind) | 𝘍𝘦𝘸 𝘫𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 <br>(𝘦𝘨. 𝘈𝘯𝘨𝘶𝘭𝘢𝘳 / 𝘴𝘷𝘦𝘭𝘵𝘦 / React / vue )<br>and buildtools (eg. vite)<br>and node.js |
 | ᑕI / ᑕᗪ <br>(eg. Jenkins / Terraform / github-actions) | 𝑺𝑸𝑳 <br>(many flavors, MSSQL / MySQL / postgreSQL and noSQL like Mongo)| Analytics Engine and containers<br>(Elasticsearch, docker, kubernetes) | WEB infrastructure and serving <br>(Google cloud / AWS / Azure / Netlify / custom domains) | Testing Frameworks <br>(Cypress, Robot Framework) |
-| I'm keen tinkerer of physical hardware 🧑‍🔧 <br>(eg. STM32 / Raspberry Pi / Arduino) | I know my way on electronics (and repair them) ☝️ | 🐍PYTHON<br> is my scripting language 2Go | Old-skool consoles close to heart <br>(also console modding HW/SW) | Freelance teacher <br>(on subjects Programming / Video and Photoediting / Music production ) |
+| I'm keen tinkerer of physical hardware 🧑‍🔧 <br>(eg. STM32 / Raspberry Pi / Arduino) | I know my way on electronics (and repair them) ☝️ | 🐍Python<br>Powershell<br>bash<br> are my scripting languages 2Go | Old-skool consoles close to heart <br>(also console modding HW/SW) | Freelance teacher <br>(on subjects Programming / Video and Photoediting / Music production ) |
 | 🎮 | 🎵 | ⌨️ | ♒ | 🧮 | 🧑‍💻 |
 
 | | | | 
