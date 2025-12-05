@@ -1,32 +1,42 @@
 
-### I'm an ordinary engineer - will solve problems with the power of knowledge :godmode:
-* Been on software industry over 5 years
-* CS Engineer from Applied Sc.
-* Freelance teacher
-* Hobbyist on Software / Hardware / Videogames / Music
-* IT Guru when it comes to consumer electronics
-* Always ready for challenges, new and legacy!
+### ⚡ I'm an ordinary engineer - will solve problems with the power of knowledge :godmode:
 
-#### One could call me generalist - but i tend to be more of a specialist.
-#### *my public presence has been lil quiet lately but full-time working is taking it's toll*
+📋 Background:
 
-![Maiska123 github stats](https://github-readme-stats.vercel.app/api?username=maiska123&theme=gotham&show_icons=true)
-[![Maiska123 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maiska123&langs_count=10&hide=javascript&theme=gotham&show_icons=true&text_color=99d1ce)](https://github.com/anuraghazra/github-readme-stats)
-  
+- 5+ years in production software development
+- CS Engineer (Applied Sciences)
+- Freelance teacher
 
-following things might tell something to someone about me:
-|_S_|_T_|_A_|_C_|_K_|
-|:-:|:-:|:-:|:-:|:-:|
-| c / c++<br>(with cmake)<br>ｃ＃ ／ dotnet | HTTP-servers and MQTT <br> (Apache, Nginx, AMPQ) | ᒍᗩᐯᗩ / Kotlin<br>(Android) | ʜᴛᴍʟ / ᴄꜱꜱ / ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ / (*PHP) <br>(modern web, css-libraries are 👍 eg. tailwind) | 𝘍𝘦𝘸 𝘫𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 <br>(𝘦𝘨. 𝘈𝘯𝘨𝘶𝘭𝘢𝘳 / 𝘴𝘷𝘦𝘭𝘵𝘦 / React / vue )<br>and buildtools (eg. vite)<br>and node.js |
-| ᑕI / ᑕᗪ <br>(eg. Jenkins / Terraform / github-actions) | 𝑺𝑸𝑳 <br>(many flavors, MSSQL / MySQL / postgreSQL and noSQL like Mongo)| Analytics Engine and containers<br>(Elasticsearch, docker, kubernetes) | WEB infrastructure and serving <br>(Google cloud / AWS / Azure / Netlify / custom domains) | Testing Frameworks <br>(Cypress, Robot Framework) |
-| I'm keen tinkerer of physical hardware 🧑‍🔧 <br>(eg. STM32 / Raspberry Pi / Arduino) | I know my way on electronics (and repair them) ☝️ | 🐍Python<br>Powershell<br>bash<br> are my scripting languages 2Go | Old-skool consoles close to heart <br>(also console modding HW/SW) | Freelance teacher <br>(on subjects Programming / Video and Photoediting / Music production ) |
+🔧 Interests:
+
+- Software & hardware
+- Videogames & music
+- Consumer electronics
+
+⚙️ Approach:
+
+- Generalist mindset, specialist execution
+- Modern stacks + legacy systems
+- Always learning, always building
+
+----
+### Core competencies:
+## 🛠️ Tech Stack
+
+| Languages | Backend & Servers | Mobile & Web | Cloud & DevOps | Data & Testing |
+|-----------|-------------------|--------------|----------------|----------------|
+| C/C++ (CMake) | Apache, Nginx | Java/Kotlin (Android) | AWS, Azure, GCP | SQL (MSSQL, MySQL, PostgreSQL) |
+| C#/.NET | HTTP, MQTT, AMQP | JavaScript/TypeScript | Docker, Kubernetes | NoSQL (MongoDB) |
+| Python | Node.js | React, Angular, Vue, Svelte | Jenkins, Terraform | Elasticsearch |
+| Bash, PowerShell | TCP, WebSockets | HTML/CSS, Tailwind | GitHub Actions | Cypress, Robot Framework |
 | 🎮 | 🎵 | ⌨️ | ♒ | 🧮 | 🧑‍💻 |
 
-| | | | 
-|--|--|--|
-|[![veggie_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=Fullstack-Edible-Battle&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/Fullstack-Edible-Battle)|[![binmap_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=bin-map-mapbox&cache_seconds=86400&theme=nord&card_width=300px)](https://github.com/Maiska123/bin-map-mapbox)|[![doom_playstore_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=react-nextjs-doom-store&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/react-nextjs-doom-store)|[![distance_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)|
-[![conference_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=conference-app&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/conference-app)|[![histogramApplication_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=histogramApplication&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/histogramApplication)|[![distance-logger-mapbox_repo](https://github-readme-stats.vercel.app/api/pin/?username=Maiska123&repo=distance-logger-mapbox&cache_seconds=86400&theme=nord)](https://github.com/Maiska123/distance-logger-mapbox)|
-  
+**Hardware & Other:**
+- Embedded systems: STM32, Raspberry Pi, Arduino
+- Electronics repair & console modding
+- Teaching: Programming, video/photo editing, music production
+
+
 <h3 align="center">My alter egos:</h3>
 <div align="center" style="display:flex;">
    <div align="left">
